@@ -1,0 +1,13 @@
+
+{
+  "name": "supernova-vpn",
+  "version": "1.0.0",
+  "description": "Supernova VPN backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
